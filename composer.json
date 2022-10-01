@@ -9,9 +9,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "ondrejsanetrnik/helper": "dev-master"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "Ondrejsanetrnik\\LaravelComparisonMethods\\": "src/"
